@@ -1,6 +1,2 @@
 
-hello raj 
-hello ram 
-
-
-some error in the file 
+hello developer 
